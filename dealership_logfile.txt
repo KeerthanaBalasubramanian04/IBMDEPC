@@ -1,0 +1,4 @@
+14:54:10-Dec-22-2021,ETL Job Started
+14:54:10-Dec-22-2021,Extract phase Started
+14:54:21-Dec-22-2021,ETL Job Started
+14:54:21-Dec-22-2021,Extract phase Started
